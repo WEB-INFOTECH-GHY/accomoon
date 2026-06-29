@@ -1,0 +1,9 @@
+:root{
+--yellow: #FF9404;
+    --green: #FF3131;   /* Changed to match the logo red */
+    --green-2: #FF3131a9; /* Red with transparency to match your previous logic */
+    --text-1: #ffffff;
+    --text-2: #985803;
+    --text-3: #FF3131;   /* Changed to match the logo red */
+
+}
