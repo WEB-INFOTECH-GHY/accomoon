@@ -89,8 +89,8 @@
                                 <a href="https://www.facebook.com/profile.php?id=61577826461559" target="_blank;" title="Facebook"><i class="fab fa-facebook-f"></i></a>
                                 <a href="https://www.facebook.com/profile.php?id=61577795767154" target="_blank;" title="Facebook"><i class="fab fa-facebook-f"></i></a>
                                 <a href="https://www.instagram.com/accomoonhotels?utm_source=qr&igsh=MXBvMjgwc3R3ZG95NA==" target="_blank;" title="Instagram"><i class="fab fa-instagram"></i></a>
-                                <a href="https://www.makemytrip.com/hotels/hotel-details?hotelId=202507030022197581&checkin=date_3&checkout=date_4&country=IN&city=CTBDL&roomStayQualifier=2e0e&openDetail=true&currency=ENG&region=IN&checkAvailability=true&locusId=CTBDL&locusType=city&homestay=true&zcp=51579cec1e22" target="_blank;" title="MakemyTrip"> <img src="image/11.png" alt="logo">  </a>
-                                <a href="https://www.booking.com/Pulse-f7h9yA" target="_blank"><img src="image/12.png" alt="logo"> </a>
+                                <a href="https://www.makemytrip.com/hotels/hotel-details?hotelId=202509161346583504&checkin=date_3&checkout=date_4&country=IN&city=CTBDL&roomStayQualifier=2e0e&openDetail=true&currency=ENG&region=IN&checkAvailability=true&locusId=CTBDL&locusType=city&homestay=true&zcp=4e9de8b3ea0c" target="_blank;" title="MakemyTrip"> <img src="image/11.png" alt="logo">  </a>
+                                <a href="https://www.booking.com/Share-HyioZZA" target="_blank"><img src="image/12.png" alt="logo"> </a>
                             </span>
                         </div>
                     </div>
@@ -713,9 +713,9 @@
                         <a href="https://www.facebook.com/profile.php?id=61577826461559" target="_blank"><i class="fab fa-facebook-f"></i></a>
                          <a href="https://www.facebook.com/profile.php?id=61577795767154" target="_blank;" title="Facebook"><i class="fab fa-facebook-f"></i></a>
                         <a href="https://www.instagram.com/accomoonhotels?utm_source=qr&igsh=MXBvMjgwc3R3ZG95NA==" target="_blank"><i class="fab fa-instagram"></i></a>
-                       <a href="https://www.makemytrip.com/hotels/hotel-details?hotelId=202507030022197581&checkin=date_3&checkout=date_4&country=IN&city=CTBDL&roomStayQualifier=2e0e&openDetail=true&currency=ENG&region=IN&checkAvailability=true&locusId=CTBDL&locusType=city&homestay=true&zcp=51579cec1e22" target="_blank;" title="MakemyTrip"> <img src="image/11.png" alt="logo">  </a>
+                       <a href="https://www.makemytrip.com/hotels/hotel-details?hotelId=202509161346583504&checkin=date_3&checkout=date_4&country=IN&city=CTBDL&roomStayQualifier=2e0e&openDetail=true&currency=ENG&region=IN&checkAvailability=true&locusId=CTBDL&locusType=city&homestay=true&zcp=4e9de8b3ea0c" target="_blank;" title="MakemyTrip"> <img src="image/11.png" alt="logo">  </a>
                        
-                             <a href="https://www.booking.com/Pulse-f7h9yA" target="_blank"><img src="image/12.png" alt="logo"> </a>
+                             <a href="https://www.booking.com/Share-HyioZZA" target="_blank"><img src="image/12.png" alt="logo"> </a>
                     </div>
                     </div>
                 </div>

@@ -17,7 +17,50 @@
   <div class="property-grid">
 
 
-    <!-- Hillside acomon hotels -->
+    <!-- Valleyide acomon hotels -->
+    <div class="property-card" data-type="hillside">
+      <div class="property-header">
+        <img src="./image/hotels/3.png" alt="Hillside Resort">
+        <span class="property-type">Hotels</span>
+      </div>
+      <div class="property-body">
+        <h3>Accomoon Hotels in ziro</h3>
+        <p class="location"> Near Mini secretariat, Hapoli, ziro Arunachal Pradesh, 791120</p>
+        <div class="property-gallery">
+          <div class="scrolling-wrapper">
+            <img src="./image/hotels/2.png" alt="Riverside view">
+            <img src="./image/hotels/3.png" alt="Riverside view">
+            <img src="./image/hotels/4.png" alt="Riverside view">
+            <img src="./image/hotels/5.png" alt="Riverside view">
+            <img src="./image/hotels/6.png" alt="Riverside view">
+            <img src="./image/hotels/7.png" alt="Riverside view">
+            <img src="./image/hotels/8.png" alt="Riverside view">
+            <img src="./image/hotels/9.png" alt="Riverside view">
+
+
+          </div>
+        </div>
+        <div class="buttons-home" style="display: flex; justify-content:space-between;">
+
+          <!-- <a href="tel:9862618194
+            " class="book-btn"><i class="fa fa-globe"></i>
+            9862618194
+          </a> -->
+          <a href="accomoonzirohotel.php" class="book-btn"><i class="fa fa-globe"></i>
+            Visit Website</a>
+
+          <!-- <a href="acoomoonresaults.php" class="book-btn"><i class="fa fa-globe"></i>
+            Visit Website</a> -->
+          <a href="https://maps.app.goo.gl/j8QdQiCkou1t3jgH9" class="book-btn"><i class="fa fa-map"></i>
+            View on Google Maps</a>
+        </div>
+
+      </div>
+    </div>
+
+
+
+    <!-- Valleyide acomon hotels -->
     <div class="property-card" data-type="hillside">
       <div class="property-header">
         <img src="./image/valley/room/1.png" alt="Hillside Resort">
