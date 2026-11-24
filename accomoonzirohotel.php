@@ -217,7 +217,7 @@
 
             <div class="col-lg-5 col-md-12 col-sm-12">
                 <div class="s-about-img p-relative wow fadeInLeft animated" data-animation="fadeInLeft" data-delay=".4s">
-                    <img src="image/hotels/9.png" alt="Accomoon Hotel">
+                    <img src="image/hotels/1.png" alt="Accomoon Hotel">
 
                     <div class="about-icon">
                         <img src="image/hotels/PXL_20260621_071552103.MP.jpg.jpeg" alt="Accomoon Hotel Room">
@@ -575,13 +575,88 @@
                     </div>
                 </div>
             </div>
+            <!-- Room 5 -->
+            <div class="col-xl-4 col-md-6">
+                <div class="single-services mb-30">
+                    <div class="services-thumb">
+                        <img src="image/hotels/10.jpeg" alt="Executive Room">
+                    </div>
+
+                    <div class="services-content">
+
+                        <div class="day-book">
+                            <ul>
+                                <li>
+                                    <a href="https://api.whatsapp.com/send?phone=918415899459&text=I want to book an Executive Room at Accomoon Hotel." target="_blank">
+                                        Book Now
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <h4 class="card-title"><a href="#">Quadruple deluxe room</a></h4>
+
+                        <div class="price-tag">
+                            <div class="price-card">
+                                <p>Room Type</p>
+                                <h6>Executive</h6>
+                            </div>
+
+                            <div class="price-card">
+                                <p>Occupancy</p>
+                                <h6>4 Guests</h6>
+                            </div>
+                        </div>
+
+                        <div class="icon">
+                            <ul>
+                                <li><i class="fas fa-wifi"></i></li>
+                                <li><i class="fas fa-tv"></i></li>
+                                <li><i class="fas fa-bed"></i></li>
+                                <li><i class="fas fa-bath"></i></li>
+                                <li><i class="fas fa-mug-hot"></i></li>
+                                <li><i class="fas fa-snowflake"></i></li>
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
 
         </div>
     </div>
 </section>
 
 
+    <section id="service-details2" class="pt-50 pb-50 p-relative" style="background-color: #f7f5f1;">
+        <div class="animations-01"><img src="img/bg/an-img-01.png" alt="an-img-01"></div>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12">
+                    <div class="section-title center-align mb-30 text-center">
+    <h2>Discover Accomoon Hotel</h2>
+</div>
+                </div>
+                
+                <div class="restourant-container">
+                    <img src="./image/hotels/1.png" alt="Valley View 1" onclick="openPopup(this.src)">
+                    <img src="./image/hotels/2.png" alt="Valley View 2" onclick="openPopup(this.src)">
+                    <img src="./image/hotels/4.png" alt="Valley View 3" onclick="openPopup(this.src)">
+                    <img src="./image/hotels/8.png" alt="Valley View 4" onclick="openPopup(this.src)">
+                    <img src="./image/hotels/12.jpeg" alt="Valley View 5" onclick="openPopup(this.src)">
+                    <img src="./image/hotels/13.jpeg" alt="Valley View 6" onclick="openPopup(this.src)">
+                    <img src="./image/hotels/10.jpeg" alt="Valley View 6" onclick="openPopup(this.src)">
+                    <img src="./image/hotels/9.png" alt="Valley View 6" onclick="openPopup(this.src)">
+                </div>
 
+                <!-- Popup -->
+                <div class="popup" id="popup">
+                    <span class="close-btn" onclick="closePopup()">&times;</span>
+                    <img id="popup-img" src="">
+                </div>
+            </div>
+        </div>
+    </section>
 
 
 <section id="service-details2" class="pt-50 pb-50 p-relative" style="background-color: #f7f5f1;">
@@ -871,11 +946,11 @@
                                 <i class="fab fa-instagram"></i>
                             </a>
 
-                            <a href="https://www.makemytrip.com/hotels/hotel-details?hotelId=202507030022197581&checkin=date_3&checkout=date_4&country=IN&city=CTBDL&roomStayQualifier=2e0e&openDetail=true&currency=ENG&region=IN&checkAvailability=true&locusId=CTBDL&locusType=city&homestay=true&zcp=51579cec1e22" target="_blank" title="MakeMyTrip">
+                            <a href="https://www.makemytrip.com/hotels/hotel-details/?checkin=07062026&checkout=07072026&city=Ziro&country=India&roomStayQualifier=2e0e&hotelId=202606241134227114&locusId=locusId&locusType=city&currency=INR&source=INGO" target="_blank" title="MakeMyTrip">
                                 <img src="image/11.png" alt="MakeMyTrip">
                             </a>
 
-                            <a href="https://www.booking.com/Pulse-f7h9yA" target="_blank" title="Booking.com">
+                            <a href="https://www.booking.com/hotel/in/accomoon.en-gb.html" target="_blank" title="Booking.com">
                                 <img src="image/12.png" alt="Booking.com">
                             </a>
                         </div>
